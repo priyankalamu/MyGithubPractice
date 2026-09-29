@@ -5,12 +5,6 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 
-
-//Some comments on the master branch
-//Added some comments on the branch for the egit demo
-
-/**
- * Unit test for simple App.
  */
 public class AppTest 
     extends TestCase
