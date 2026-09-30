@@ -6,7 +6,7 @@ import junit.framework.TestSuite;
 
 
 
-//Some comments on the master branch
+//Changes made from merge2 branch
 //Added some comments on the branch for the egit demo
 
 /**
