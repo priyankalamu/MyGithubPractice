@@ -1,3 +1,3 @@
-static int divide(int val1, val3) {
-    val1 / val3
+static int divide(int val1, val4) {
+    val1 / val4
 }
